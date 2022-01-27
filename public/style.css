@@ -1,0 +1,26 @@
+.rojo{
+    color: red;
+}
+
+header{
+    width: 80%;
+    height: 2rem;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #333;
+}
+
+nav{
+    width: 50%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    text-decoration: none;
+    color: #eee;
+}
+
